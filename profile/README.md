@@ -2,7 +2,7 @@
 
 # 🕌 IACSAS
 
-### International Association of the Cultural & Spiritual Assembly of the Sufi
+### International Academic Center of Sufi and Aesthetic Studies
 
 ---
 
