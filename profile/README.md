@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/iacsas-org/.github/main/profile/iacsas-logo.png" alt="IACSAS Logo" width="200"/>
 
-# IACSAS
-
 ### International Academic Center of Sufi and Aesthetic Studies
 
 ---
